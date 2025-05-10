@@ -1,0 +1,118 @@
+-fara (cap)(low)(up)
+
+-FARA (cap)
+  
+-hello (up)(low)         
+
+-WORLD (low)(cap)       
+  
+-test (up)(cap)(low)     
+
+-FARA (low)(up)        
+
+-mix (cap)(up)(low)      
+
+-TEST (low)(up)(cap)     
+
+-hello (cap)(low)(up)    
+
+-WORLD (up)(low)(cap)    
+ 
+-test (low)(cap)(up)     
+
+-mix (up)(low)(cap)
+
+
+FF(cap)(low)(up)(hex)
+
+agggassgdagd gagagag (cap,2)
+
+
+gagaggag(cap) jhasjdadsjkla klasjlkadjlsk(cap,2)
+
+
+(hex)(bin)FF
+
+(bin)
+
+(hex)
+
+(up)
+
+(low)
+
+(cap)
+
+
+
+
+
+1010 (bin) FF (hex) hello (up) , world (cap) ... a elephant
+
+I am exactly how they describe me: ' awesome '
+
+As Elton John said: ' I am the most well-known homosexual in the world '
+
+
+lowercase vowel: a elephant
+
+uppercase vowel: A Elephanth-word: a hour
+
+consonant: a dog
+
+simple quote: ' hello '
+
+multiple quotes: ' hello ' ' world '
+
+nested quotes: ' hello 'world' '
+
+ellipsis: hello ... worlddouble 
+
+exclamation: hello !! world
+
+double question: hello ?? 
+
+worldexclamation question: hello !? world
+
+ellipsis: hello ......... jksbfkjbsdfjfbsvbskvsmvlsdjvjnsjvns
+
+
+
+comma: hello , world 
+
+semicolon: hello ; world
+
+olon: hello : world
+
+
+I am exactly how they describe me: "    awesome   "
+
+I am exactly how they describe me: '    awesome   '
+
+"  awesome   "
+
+'    awesome   '
+
+
+
+Finally, what if a crazy punctuation sequence ...!!? happens here? Combine it all (low, 99999999) and you'll surely get (cap, -99999) an error or crash.
+
+
+Here's a tricky one: what happens when (hex) has 1F (hex, 10000) or 1010 (bin, -10)?
+
+
+Lastly, here is a challenge: 1F (hex) and 10 (bin) and another (low, -1).
+
+
+The fans shouted: WOW (up) , that incredible (cap, 4) !!
+
+
+Start with some simple text (cap, 2) but then try (cap, 10000 nested text (low, 500)) to break things.
+
+
+
+Punctuation needs fixing ,don't you think? And what about groupings like ... or !!?
+
+
+
+The message said: 'the system is critical: reboot NOW (low) and initiate (up, 3) emergency protocols !!! ?'
